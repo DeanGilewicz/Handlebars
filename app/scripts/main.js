@@ -29,4 +29,4 @@ var footy = {
 
 var rendered_2 = Handlebars.templates['teams'];
 
-$('#teams').append( rendered_2(library) );
+$('#teams').append( rendered_2(footy) );

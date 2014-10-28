@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Using Handlebars
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Working with both methods of handlebars js.
